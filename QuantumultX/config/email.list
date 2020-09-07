@@ -4,3 +4,5 @@ DOMAIN,smtp.gmail.com,Email
 # Outlook
 DOMAIN,outlook.office365.com,Email
 DOMAIN,smtp.office365.com,Email
+DOMAIN,imap-mail.outlook.com,Email
+DOMAIN,smtp-mail.outlook.com,Email
