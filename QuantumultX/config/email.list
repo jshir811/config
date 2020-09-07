@@ -1,0 +1,6 @@
+# Gmail
+DOMAIN,imap.gmail.com,Email
+DOMAIN,smtp.gmail.com,Email
+# Outlook
+DOMAIN,outlook.office365.com,Email
+DOMAIN,smtp.office365.com,Email
