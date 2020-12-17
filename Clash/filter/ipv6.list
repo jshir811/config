@@ -1,22 +1,22 @@
 # > IPv6
 IP6-CIDR, ::/0
 # > 北邮人
-HOST-SUFFIX, bt.byr.cn
+DOMAIN-SUFFIX, bt.byr.cn
 # > IPv6之家
-HOST-SUFFIX, ipv6home.cn
+DOMAIN-SUFFIX, ipv6home.cn
 # > CNGI高校驻地网
-HOST-SUFFIX, 6rank.edu.cn
+DOMAIN-SUFFIX, 6rank.edu.cn
 # > 北邮人TV
-HOST-SUFFIX, iptv.bupt.edu.cn
+DOMAIN-SUFFIX, iptv.bupt.edu.cn
 # > 6快播资源导航
-HOST-SUFFIX, 6kuaibo.com
+DOMAIN-SUFFIX, 6kuaibo.com
 # > 怒放资源导航
-HOST-SUFFIX, nufangys.com
+DOMAIN-SUFFIX, nufangys.com
 # > Google IPv6
-HOST-SUFFIX, ipv6.google.com
+DOMAIN-SUFFIX, ipv6.google.com
 # > 六维空间
-HOST-SUFFIX, bt.neu6.edu.cn
+DOMAIN-SUFFIX, bt.neu6.edu.cn
 # > 晨光（北交大）
-HOST-SUFFIX, cgbt.cn
+DOMAIN-SUFFIX, cgbt.cn
 # > TB 乐乎（上海大学）
-HOST-SUFFIX,bt.shu6.edu.cn
+DOMAIN-SUFFIX,bt.shu6.edu.cn
