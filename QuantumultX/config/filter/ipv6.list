@@ -1,4 +1,16 @@
 # > IPv6
 IP6-CIDR, ::/0, IPv6
 # > 北邮人
-HOST, bt.byr.cn, IPv6
+HOST-SUFFIX, bt.byr.cn, IPv6
+# > IPv6之家
+HOST-SUFFIX, ipv6home.cn, IPv6
+# > CNGI高校驻地网
+HOST-SUFFIX, 6rank.edu.cn, IPv6
+# > 北邮人TV
+HOST-SUFFIX, iptv.bupt.edu.cn, IPv6
+# > 6快播资源导航
+HOST-SUFFIX, 6kuaibo.com, IPv6
+# > 怒放资源导航
+HOST-SUFFIX, nufangys.com, IPv6
+# > Google IPv6
+HOST-SUFFIX, ipv6.google.com, IPv6
