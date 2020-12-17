@@ -14,6 +14,7 @@ DOMAIN-SUFFIX, 6kuaibo.com
 DOMAIN-SUFFIX, nufangys.com
 # > Google IPv6
 DOMAIN-SUFFIX, ipv6.google.com
+DOMAIN-SUFFIX, ipv6test.google.com
 # > 六维空间
 DOMAIN-SUFFIX, bt.neu6.edu.cn
 # > 晨光（北交大）
