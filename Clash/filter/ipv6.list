@@ -22,3 +22,5 @@ DOMAIN-SUFFIX, bt.neu6.edu.cn
 DOMAIN-SUFFIX, cgbt.cn
 # > TB 乐乎（上海大学）
 DOMAIN-SUFFIX,bt.shu6.edu.cn
+# > IPv6 Test
+DOMAIN-SUFFIX,test-ipv6.com
