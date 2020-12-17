@@ -1,2 +1,4 @@
 # > IPv6
 IP6-CIDR, ::/0, IPv6
+# > 北邮人
+HOST, bt.byr.cn, IPv6
