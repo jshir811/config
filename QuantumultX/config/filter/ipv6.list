@@ -14,3 +14,9 @@ HOST-SUFFIX, 6kuaibo.com, IPv6
 HOST-SUFFIX, nufangys.com, IPv6
 # > Google IPv6
 HOST-SUFFIX, ipv6.google.com, IPv6
+# > 六维空间
+HOST-SUFFIX, bt.neu6.edu.cn, IPv6
+# > 晨光（北交大）
+HOST-SUFFIX, cgbt.cn, IPv6
+# > TB 乐乎（上海大学）
+HOST-SUFFIX,bt.shu6.edu.cn, IPv6
