@@ -1,5 +1,5 @@
 # > IPv6
-IP-CIDR, [::]/0
+IP-CIDR, ::/0
 # > 北邮人
 DOMAIN-SUFFIX, bt.byr.cn
 # > IPv6之家
