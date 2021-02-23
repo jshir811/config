@@ -16,3 +16,5 @@ HOST, gdmf.apple.com, Apple Update
 HOST-SUFFIX, tidal.com, Outside
 # > Dreamspark发卡商店
 HOST-SUFFIX, shop.dreamspark.ac.cn, Outside
+# > LE
+HOST-SUFFIX, lucasentertainment.com, Outside
