@@ -18,3 +18,5 @@ HOST-SUFFIX, tidal.com, Outside
 HOST-SUFFIX, shop.dreamspark.ac.cn, Outside
 # > LE
 HOST-SUFFIX, lucasentertainment.com, Outside
+# > 知乎内容加载
+HOST-SUFFIX, appcloud2.shihj.com, Mainland
