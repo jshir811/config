@@ -11,12 +11,12 @@ DOMAIN,exchangehz.qiye.163.com
 # > Teambition
 DOMAIN,tbanalysis.teambition.com
 # > 知乎图片
-DOMAIN-KEYWORD,dm.pstatp.com
-DOMAIN-KEYWORD,pangolin-sdk-toutiao.com
-DOMAIN-KEYWORD,dm.bytedance.com
+DOMAIN-SUFFIX,dm.pstatp.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,dm.bytedance.com
 # > 知乎内容加载
-DOMAIN, appcloud2.zhihu.com
-DOMAIN, sugar.zhihu.com
+DOMAIN-SUFFIX, appcloud2.zhihu.com
+DOMAIN-SUFFIX, sugar.zhihu.com
 # > 嘀哩嘀哩影视
-DOMAIN, dilidili.live
-DOMAIN, diliktv.com
+DOMAIN-SUFFIX, dilidili.live
+DOMAIN-SUFFIX, diliktv.com
