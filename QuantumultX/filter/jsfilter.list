@@ -20,3 +20,7 @@ HOST-SUFFIX, shop.dreamspark.ac.cn, Outside
 HOST-SUFFIX, lucasentertainment.com, Outside
 # > 知乎内容加载
 HOST-SUFFIX, appcloud2.zhihu.com, Mainland
+HOST-SUFFIX, sugar.zhihu.com, Mainland
+# > 嘀哩嘀哩影视
+HOST-SUFFIX, dilidili.live, Mainland
+HOST-SUFFIX, diliktv.com, Mainland
