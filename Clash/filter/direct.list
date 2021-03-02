@@ -17,3 +17,6 @@ DOMAIN-KEYWORD,dm.bytedance.com
 # > 知乎内容加载
 DOMAIN, appcloud2.zhihu.com
 DOMAIN, sugar.zhihu.com
+# > 嘀哩嘀哩影视
+DOMAIN, dilidili.live
+DOMAIN, diliktv.com
