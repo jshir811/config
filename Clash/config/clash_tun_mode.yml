@@ -137,7 +137,7 @@ cfw-latency-url: http://www.gstatic.com/generate_204
 dns:
   enable: true
   enhanced-mode: redir-host
-  nameserver:
+  nameserver: # 真实请求DNS，可多设置几个
      - 223.5.5.5 # 阿里DNS
      - 180.76.76.76 # 百度DNS
      - 119.29.29.29 # 腾讯DNS
@@ -158,7 +158,7 @@ dns:
   fallback-filter:
      geoip: true # 默认
      ipcidr: # 在这个网段内的 IP 地址会被考虑为被污染的 IP
-       - 240.0.0.0/4 # 真实请求DNS，可多设置几个
+       - 240.0.0.0/4
 # interface-name: WLAN # 出口网卡名称，或者使用下方的自动检测
 tun:
   enable: true
