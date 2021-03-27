@@ -26,3 +26,5 @@ HOST-SUFFIX, dilidili.live, Mainland
 HOST-SUFFIX, diliktv.com, Mainland
 # > APP Store
 HOST-SUFFIX, iosapps.itunes.apple.com, Mainland
+# > Apple Updare
+HOST-SUFFIX, updates-http.cdn-apple.com, Apple Update
