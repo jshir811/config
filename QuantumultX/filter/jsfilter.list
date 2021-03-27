@@ -5,13 +5,6 @@ HOST-SUFFIX, h5.hpplay.com.cn, Mainland
 HOST-SUFFIX, log.snssdk.com, Mainland
 # > 四达海外OA
 HOST-SUFFIX, hwoa.startimes.com.cn, Outside
-# > Apple系统更新
-HOST, ns.itunes.apple.com, Apple Update
-HOST, appldnld.apple.com, Apple Update
-HOST, mesu.apple.com, Apple Update
-HOST, xp.apple.com, Apple Update
-HOST, gdmf.apple.com, Apple Update
-#HOST-SUFFIX,iosapps.itunes.apple.com, Mainland
 # > Tidal
 HOST-SUFFIX, tidal.com, Outside
 # > Dreamspark发卡商店
@@ -24,7 +17,3 @@ HOST-SUFFIX, sugar.zhihu.com, Mainland
 # > 嘀哩嘀哩影视
 HOST-SUFFIX, dilidili.live, Mainland
 HOST-SUFFIX, diliktv.com, Mainland
-# > APP Store
-HOST-SUFFIX, iosapps.itunes.apple.com, Mainland
-# > Apple Updare
-HOST-SUFFIX, updates-http.cdn-apple.com, Apple Update
