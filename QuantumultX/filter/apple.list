@@ -1,0 +1,11 @@
+# > Apple系统更新
+HOST, ns.itunes.apple.com, Apple Update
+HOST, appldnld.apple.com, Apple Update
+HOST, mesu.apple.com, Apple Update
+HOST, xp.apple.com, Apple Update
+HOST, gdmf.apple.com, Apple Update
+#HOST-SUFFIX,iosapps.itunes.apple.com, Mainland
+# > APP Store
+HOST-SUFFIX, iosapps.itunes.apple.com, Mainland
+# > Apple Updare
+HOST-SUFFIX, updates-http.cdn-apple.com, Apple Update
