@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,dm.bytedance.com
 # > 知乎内容加载
 DOMAIN-SUFFIX, appcloud2.zhihu.com
 DOMAIN-SUFFIX, sugar.zhihu.com
+DOMAIN-SUFFIX, mqtt.zhihu.com
 # > 嘀哩嘀哩影视
 DOMAIN-SUFFIX, dilidili.live
 DOMAIN-SUFFIX, diliktv.com
