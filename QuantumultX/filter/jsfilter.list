@@ -3,6 +3,8 @@ HOST-SUFFIX, www.hpplay.com.cn, Mainland
 HOST-SUFFIX, h5.hpplay.com.cn, Mainland
 # > 今日头条，似乎影响知乎图片加载
 HOST-SUFFIX, log.snssdk.com, Mainland
+# > 115网盘
+HOST-SUFFIX, 115.com, Mainland
 # > 四达海外OA
 HOST-SUFFIX, hwoa.startimes.com.cn, Outside
 # > Tidal
