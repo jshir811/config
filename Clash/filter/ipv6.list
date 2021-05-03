@@ -24,3 +24,5 @@ DOMAIN-SUFFIX, cgbt.cn
 DOMAIN-SUFFIX,bt.shu6.edu.cn
 # > IPv6 Test
 DOMAIN-SUFFIX,test-ipv6.com
+# > GVDB
+DOMAIN-SUFFIX, gvdb.org
