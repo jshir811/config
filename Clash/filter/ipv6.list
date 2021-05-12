@@ -26,3 +26,5 @@ DOMAIN-SUFFIX,bt.shu6.edu.cn
 DOMAIN-SUFFIX,test-ipv6.com
 # > GVDB
 DOMAIN-SUFFIX, gvdb.org
+# > LibTorrent
+DOMAIN-SUFFIX, libtorrent.org
