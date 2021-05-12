@@ -25,3 +25,5 @@ HOST-SUFFIX, waybig.com, Outside
 HOST-SUFFIX, ntu.edu.sg, Mainland
 # > GVDB
 HOST-SUFFIX, gvdb.org, IPv6
+# > LibTorrent
+HOST-SUFFIX, libtorrent.org, IPv6
