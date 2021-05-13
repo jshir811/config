@@ -27,3 +27,5 @@ HOST-SUFFIX, ntu.edu.sg, Mainland
 HOST-SUFFIX, gvdb.org, IPv6
 # > LibTorrent
 HOST-SUFFIX, libtorrent.org, IPv6
+# > Termius
+HOST-SUFFIX, termius.com, Outside
