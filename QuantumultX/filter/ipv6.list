@@ -21,4 +21,4 @@ HOST-SUFFIX, cgbt.cn, IPv6
 # > TB 乐乎（上海大学）
 HOST-SUFFIX,bt.shu6.edu.cn, IPv6
 ​# > IPv6 Tsinghua
-HOST-SUFFIX, ipv6.tsinghua.edu.cn
+HOST-SUFFIX, ipv6.tsinghua.edu.cn, IPv6
