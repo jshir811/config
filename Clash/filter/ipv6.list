@@ -28,3 +28,6 @@ DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX, gvdb.org
 # > LibTorrent
 DOMAIN-SUFFIX, libtorrent.org
+# > IPv6 Tsinghua
+30
+DOMAIN-SUFFIX, ipv6.tsinghua.edu.cn
