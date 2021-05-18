@@ -1,7 +1,7 @@
 # > Torrent
 HOST-KEYWORD,torrent.ru,Torrent
 HOST-KEYWORD,torrentkitty,Torrent
-HOST-SUFFIX,qbittorrent.org
+HOST-SUFFIX,qbittorrent.org,Torrent
 # 内容：Private Tracker
 # 数量：37条
 #HOST-KEYWORD,announce,Torrent
