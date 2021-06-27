@@ -99,8 +99,8 @@ tun:
   stack: gvisor
   dns-hijack:
     - 198.18.0.2:53
-  macOS-auto-route: true
-  macOS-auto-detect-interface: true # 自动检测出口网卡
+  auto-route: true
+  auto-detect-interface: true # 自动检测出口网卡
 
 # 1. clash DNS 请求逻辑：
 #   (1) 当访问一个域名时， nameserver 与 fallback 列表内的所有服务器并发请求，得到域名对应的 IP 地址。
