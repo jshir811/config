@@ -30,4 +30,4 @@ HOST-SUFFIX, libtorrent.org, IPv6
 # > Termius
 HOST-SUFFIX, termius.com, Outside
 # > 快贴同步
-qtier.oss-accelerate.aliyuncs.com, Mainland
+HOST-SUFFIX, qtier.oss-accelerate.aliyuncs.com, Mainland
