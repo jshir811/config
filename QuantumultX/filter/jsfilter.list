@@ -31,3 +31,4 @@ HOST-SUFFIX, libtorrent.org, IPv6
 HOST-SUFFIX, termius.com, Outside
 # > 快贴同步
 HOST-SUFFIX, qtier.oss-accelerate.aliyuncs.com, Mainland
+PROTOCOL, UDP, UDP
