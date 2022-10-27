@@ -25,5 +25,7 @@ DOMAIN-SUFFIX, diliktv.com
 DOMAIN-SUFFIX, teambition.net
 # > 百度智能云
 DOMAIN-SUFFIX, bce.baidu.com
+# > 百度智能云
+DOMAIN-SUFFIX, bce.baidu.com
 # > 麦软网
-DOMAIN-SUFFIX, mairuan.com
+DOMAIN-KEYWORD,mairuan
