@@ -80,6 +80,7 @@ dns:
      #- localhost.ptlogin2.qq.com
   default-nameserver:
      - 223.5.5.5 # 阿里DNS
+     - 2400:3200::1 # 阿里DNS
      - 180.76.76.76 # 百度DNS
      - 119.29.29.29 # 腾讯DNS
      - 117.50.11.11 # ONE DNS拦截版 恶意网站拦截、广告过滤
@@ -94,6 +95,7 @@ dns:
      - https://v6.rubyfish.cn/dns-query #红鱼rubyfish IPV6 DNS
   nameserver:
      - 223.5.5.5 # 阿里DNS
+     - 2400:3200::1 # 阿里DNS
      - 180.76.76.76 # 百度DNS
      - 119.29.29.29 # 腾讯DNS
      - 117.50.11.11 # ONE DNS拦截版 恶意网站拦截、广告过滤
@@ -114,7 +116,9 @@ dns:
      - https://v6.rubyfish.cn/dns-query #红鱼rubyfish IPV6 DNS
   fallback:
      - 8.8.8.8 # 谷歌DNS
+     - 2001:4860:4860::8888 # 谷歌DNS
      - 1.1.1.1 # Cloudflare DNS
+     - 2606:4700:4700::1111 # Cloudflare DNS
      - https://1.1.1.1/dns-query # Cloudflare 公共DNS
      - https://dns.google/dns-query # Google 公共DNS
      - https://doh.dns.sb/dns-query # DNS.SB
