@@ -32,5 +32,5 @@ DOMAIN-SUFFIX, ffzy-play4.com
 # > 娱心数卡
 DOMAIN-SUFFIX, cfssq.com
 # > QQ音乐
-IP-CIDR, 43.141.68.251/32
-IP-CIDR, 43.141.68.131/32
+IP-CIDR, 43.141.68.251/32,no-resolve
+IP-CIDR, 43.141.68.131/32,no-resolve
