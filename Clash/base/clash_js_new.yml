@@ -86,7 +86,7 @@ dns:
      - 117.50.11.11 # ONE DNS拦截版 恶意网站拦截、广告过滤
      - 117.50.10.10 # ONE DNS纯净版 直接返回其真实的响应结果
      - 114.114.114.114 # 114DNS
-     - https://2400:3200::1/dns-query # 阿里DNS
+     - https://[2400:3200::1]/dns-query # 阿里DNS
      - 2400:da00::6666 #百度DNS
      - 2402:4e00:: # 腾讯DNS
      - 2001:da8::666 #清华大学TUNA协会IPV6 DNS
@@ -107,7 +107,7 @@ dns:
      #- https://dns.cfiec.net/dns-query # 中国下一代互联网公共DNS
      - https://rubyfish.cn/dns-query # 红鱼dns
      - https://dns.233py.com/dns-query # GEEKDNS
-     - https://2400:3200::1/dns-query # 阿里DNS
+     - https://[2400:3200::1]/dns-query # 阿里DNS
      - 2400:da00::6666 #百度DNS
      - 2402:4e00:: # 腾讯DNS
      - 2001:da8::666 #清华大学TUNA协会IPV6 DNS
