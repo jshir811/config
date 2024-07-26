@@ -92,7 +92,7 @@ dns:
      #- [2001:da8::666] #清华大学TUNA协会IPV6 DNS
      #- https://[2001:4860:4860::64]/dns-query #Google IPV6 DNS
      #- https://[2606:4700:4700::1111]/dns-query #Cloudflare IPV6 DNS
-     - https://v6.rubyfish.cn/dns-query #红鱼rubyfish IPV6 DNS
+     #- https://v6.rubyfish.cn/dns-query #红鱼rubyfish IPV6 DNS
   nameserver:
      - 223.5.5.5 # 阿里DNS
      #- [2400:3200::1] # 阿里DNS
@@ -107,12 +107,12 @@ dns:
      #- https://dns.cfiec.net/dns-query # 中国下一代互联网公共DNS
      - https://rubyfish.cn/dns-query # 红鱼dns
      - https://dns.233py.com/dns-query # GEEKDNS
-     #- https://[2400:3200::1]/dns-query # 阿里DNS
+     - https://[2400:3200::1]/dns-query # 阿里DNS
      #- [2400:da00::6666] #百度DNS
      #- [2402:4e00::] # 腾讯DNS
      #- [2001:da8::666] #清华大学TUNA协会IPV6 DNS
-     #- https://[2001:4860:4860::64]/dns-query #Google IPV6 DNS
-     #- https://[2606:4700:4700::1111]/dns-query #Cloudflare IPV6 DNS
+     - https://[2001:4860:4860::64]/dns-query #Google IPV6 DNS
+     - https://[2606:4700:4700::1111]/dns-query #Cloudflare IPV6 DNS
      - https://v6.rubyfish.cn/dns-query #红鱼rubyfish IPV6 DNS
   fallback:
      - 8.8.8.8 # 谷歌DNS
