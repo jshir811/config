@@ -35,5 +35,6 @@ DOMAIN-SUFFIX, cfssq.com
 IP-CIDR, 43.141.68.251/32,no-resolve
 IP-CIDR, 43.141.68.131/32,no-resolve
 # > 英雄杀广告
-IP-CIDR, 119.147.19.225/32,no-resolve
 DOMAIN-SUFFIX, szextshort.weixin.qq.com
+IP-CIDR, 119.147.19.225/32,no-resolve
+IP-CIDR, 183.47.124.77/32,no-resolve
