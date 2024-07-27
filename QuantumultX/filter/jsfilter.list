@@ -36,5 +36,8 @@ HOST-SUFFIX, ffzy-play4.com, Mainland
 # > ChatGPT
 HOST-SUFFIX, openai.com, ChatGPT
 # > 英雄杀广告
-IP-CIDR, 119.147.19.225/32, Mainland
 HOST-SUFFIX, szextshort.weixin.qq.com, Mainland
+HOST-SUFFIX, wxsnsdy.wxs.qq.com, Mainland
+HOST-SUFFIX, wxsnsdythumb.wxs.qq.com, Mainland
+IP-CIDR, 119.147.19.225/32, Mainland
+IP-CIDR, 183.47.124.77/32, Mainland
