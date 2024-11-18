@@ -41,3 +41,5 @@ HOST-SUFFIX, wxsnsdy.wxs.qq.com, Mainland
 HOST-SUFFIX, wxsnsdythumb.wxs.qq.com, Mainland
 IP-CIDR, 119.147.19.225/32, Mainland
 IP-CIDR, 183.47.124.77/32, Mainland
+# > 微信Windows版本下载
+HOST-SUFFIX, dldir1v6.qq.com, Mainland
