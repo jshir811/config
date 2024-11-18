@@ -40,3 +40,5 @@ DOMAIN-SUFFIX, wxsnsdy.wxs.qq.com
 DOMAIN-SUFFIX, wxsnsdythumb.wxs.qq.com
 IP-CIDR, 119.147.19.225/32,no-resolve
 IP-CIDR, 183.47.124.77/32,no-resolve
+# > 微信Windows版本下载
+DOMAIN-SUFFIX, dldir1v6.qq.com
