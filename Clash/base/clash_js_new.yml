@@ -960,3 +960,5 @@ cfw-bypass:
   - 172.31.*
   - 192.168.*
   - <local>
+  # Home Assistant
+  - "*homeassistant.local*"
