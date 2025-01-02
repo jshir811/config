@@ -135,6 +135,7 @@ dns:
        - 240.0.0.0/4
   hosts:
      'miwifi.com': 192.168.31.1
+     'homeassistant.local': 192.168.31.247
 
 # 1. clash DNS 请求逻辑：
 #   (1) 当访问一个域名时， nameserver 与 fallback 列表内的所有服务器并发请求，得到域名对应的 IP 地址。
