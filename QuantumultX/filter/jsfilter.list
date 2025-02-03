@@ -45,3 +45,5 @@ IP-CIDR, 183.47.124.77/32, Mainland
 HOST-SUFFIX, dldir1v6.qq.com, Mainland
 # > Home Assistant
 HOST-SUFFIX, homeassistant.local, Mainland, no-resolve
+# > TVBox Fongmi OKTV
+HOST-SUFFIX, fongmi.android.tv, Mainland
