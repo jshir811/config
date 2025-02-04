@@ -46,3 +46,5 @@ DOMAIN-SUFFIX, dldir1v6.qq.com
 DOMAIN-SUFFIX, homeassistant.local, no-resolve
 # > TVBox Fongmi OKTV
 DOMAIN-SUFFIX, fongmi.android.tv
+# > UC浏览器
+DOMAIN-SUFFIX, pubs.ucweb.com
