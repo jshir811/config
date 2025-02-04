@@ -17,8 +17,8 @@ mixed-port: 7890             #本地混合代理(http和socks5合并）端口
                              # 并发所有IP，选择握手最快的IP进行连接
 
 allow-lan: true                  #允许局域网连接(false/true)
-bind-address: "*"                 #监听IP白名单（当allow-lan：true），只允许列表设备
-  #'*'                             #全部设备
+bind-address:                      #监听IP白名单（当allow-lan：true），只允许列表设备
+  '*'                             #全部设备
   # 192.168.122.11                #单个ip4地址
   # "[aaaa::a8aa:ff:fe09:57d8]"   #单个ip6地址
   
@@ -28,14 +28,14 @@ log-level: info            #日志等级（info/warning/error/debug/silent）
 
 ipv6: true                #ip6开关，当为false时，停止解析hostanmes为ip6地址
 
-external-controller: '127.0.0.1:9090'   #控制器监听地址
+external-controller: 127.0.0.1:9090   #控制器监听地址
 external-ui: folder                   #http服务路径，可以放静态web网页，如yacd的控制面板
                                       #可通过`http://{{external-controller}}/ui`直接使用
 # secret: ""                          #控制器登录密码
 
 
-interface-name: en0        #出口网卡名称
-routing-mark: 6666         #流量标记(仅Linux)
+#####interface-name: en0        #出口网卡名称
+#####routing-mark: 6666         #流量标记(仅Linux)
 
 profile:                   #缓存设置(文件位置./cache.db)
   store-selected: true    #节点状态记忆（若不同配置有同代理名称,设置值共享）
@@ -123,7 +123,7 @@ profile:                   #缓存设置(文件位置./cache.db)
   # - 443
   # - 8000-9000
 
-hosts:                           #host，支持通配符（非通配符域名优先级高于通配符域名）
+####hosts:                           #host，支持通配符（非通配符域名优先级高于通配符域名）
   # '*.clash.dev': 127.0.0.1     #例如foo.example.com>*.example.com>.example.com
   # '.dev': 127.0.0.1
   # 'alpha.clash.dev': '::1'
@@ -162,7 +162,7 @@ dns:
     ####- https://dns.alidns.com/dns-query#h3=true #【Meta专属】强制HTTP/3
     ####- https://mozilla.cloudflare-dns.com/dns-query#DNS&h3=true #【Meta专属】指定策略组和使用 HTTP/3
     - dhcp://en0 # dns from dhcp
-    - quic://dns.adguard.com:784 # DNS over QUIC
+    ####- quic://dns.adguard.com:784 # DNS over QUIC
     # - '8.8.8.8#en0' # 兼容指定DNS出口网卡
     
   fallback:                          #回落DNS服务器，支持udp/tcp/dot/doh/doq
