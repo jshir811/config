@@ -12,8 +12,8 @@ mixed-port: 7890             #本地混合代理(http和socks5合并）端口
 #  - "user1:pass1"
 #  - "user2:pass2"
 
-# geodata-mode: true         #【Meta专属】使用geoip.dat数据库(默认：false使用mmdb数据库)
-tcp-concurrent: true         #【Meta专属】TCP连接并发，如果域名解析结果对应多个IP，
+####geodata-mode: true         #【Meta专属】使用geoip.dat数据库(默认：false使用mmdb数据库)
+####tcp-concurrent: true         #【Meta专属】TCP连接并发，如果域名解析结果对应多个IP，
                              # 并发所有IP，选择握手最快的IP进行连接
 
 allow-lan: true                  #允许局域网连接(false/true)
@@ -102,21 +102,21 @@ profile:                   #缓存设置(文件位置./cache.db)
 #   'alpha.clash.dev': '::1'
 
 
-sniffer:                         #【Meta专属】sniffer域名嗅探器
-  enable: true                   #嗅探开关
-  sniffing:                      #嗅探协议对象：目前支持tls/http
-    - tls
-    - http
-  skip-domain:                   #列表中的sni字段，保留mapping结果，不通过嗅探还原域名
+####sniffer:                         #【Meta专属】sniffer域名嗅探器
+  ####enable: true                   #嗅探开关
+  ####sniffing:                      #嗅探协议对象：目前支持tls/http
+    ####- tls
+    ####- http
+  ####skip-domain:                   #列表中的sni字段，保留mapping结果，不通过嗅探还原域名
                                  #优先级比force-domain高
-    - 'Mijia Cloud'              #米家设备，建议加
-    - 'dlg.io.mi.com'
-    - '+.apple.com'              #苹果域名，建议加
+    ####- 'Mijia Cloud'              #米家设备，建议加
+    ####- 'dlg.io.mi.com'
+    ####- '+.apple.com'              #苹果域名，建议加
   # - '*.baidu.com'              #支持通配符
     
-  force-domain:                  #需要强制嗅探的域名，默认只对IP嗅探
+  ####force-domain:                  #需要强制嗅探的域名，默认只对IP嗅探
   # - '+'                        #去掉注释后等于全局嗅探
-    - 'google.com'
+    ####- 'google.com'
     
   #port-whitelist:               #端口白名单，只对名单内的端口进行还原域名
   # - 80
@@ -159,8 +159,8 @@ dns:
     - 8.8.8.8 # default value
     - tls://223.5.5.5:853 # DNS over TLS
     - https://doh.pub/dns-query # DNS over HTTPS
-    - https://dns.alidns.com/dns-query#h3=true #【Meta专属】强制HTTP/3
-    - https://mozilla.cloudflare-dns.com/dns-query#DNS&h3=true #【Meta专属】指定策略组和使用 HTTP/3
+    ####- https://dns.alidns.com/dns-query#h3=true #【Meta专属】强制HTTP/3
+    ####- https://mozilla.cloudflare-dns.com/dns-query#DNS&h3=true #【Meta专属】指定策略组和使用 HTTP/3
     - dhcp://en0 # dns from dhcp
     - quic://dns.adguard.com:784 # DNS over QUIC
     # - '8.8.8.8#en0' # 兼容指定DNS出口网卡
@@ -168,15 +168,15 @@ dns:
   fallback:                          #回落DNS服务器，支持udp/tcp/dot/doh/doq
     - https://doh.dns.sb/dns-query
     - tcp://208.67.222.222:443
-    - quic://a.passcloud.xyz:784     #【Meta专属】Dns over quic
-    - 'tls://8.8.4.4:853#DNSg'       #【Meta专属】"#DNSg"代表该DNS服务器通过
+    ####- quic://a.passcloud.xyz:784     #【Meta专属】Dns over quic
+    ####- 'tls://8.8.4.4:853#DNSg'       #【Meta专属】"#DNSg"代表该DNS服务器通过
                                      # 名为"DNSg"的proxy Group访问
                                      
   fallback-filter:                   #回落DNS服务器过滤
     geoip: true                      #为真时，不匹配为geoip规则的使用fallback返回结果
     geoip-code: CN                   #geoip匹配区域设定
-    geosite:                         #【Meta专属】设定geosite某分类使用fallback返回结果
-      - gfw
+    ####geosite:                         #【Meta专属】设定geosite某分类使用fallback返回结果
+      ####- gfw
     ipcidr:                          #列表中的ip使用fallback返回解析结果
       - 240.0.0.0/4
     domain:                          #列表中的域名使用fallback返回解析结果
