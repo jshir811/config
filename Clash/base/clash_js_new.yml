@@ -17,8 +17,8 @@ mixed-port: 7890             #本地混合代理(http和socks5合并）端口
                              # 并发所有IP，选择握手最快的IP进行连接
 
 allow-lan: true                  #允许局域网连接(false/true)
-bind-address:                     #监听IP白名单（当allow-lan：true），只允许列表设备
-  '*'                             #全部设备
+bind-address: "*"                 #监听IP白名单（当allow-lan：true），只允许列表设备
+  #'*'                             #全部设备
   # 192.168.122.11                #单个ip4地址
   # "[aaaa::a8aa:ff:fe09:57d8]"   #单个ip6地址
   
@@ -28,7 +28,7 @@ log-level: info            #日志等级（info/warning/error/debug/silent）
 
 ipv6: true                #ip6开关，当为false时，停止解析hostanmes为ip6地址
 
-external-controller: 127.0.0.1:9090   #控制器监听地址
+external-controller: '127.0.0.1:9090'   #控制器监听地址
 external-ui: folder                   #http服务路径，可以放静态web网页，如yacd的控制面板
                                       #可通过`http://{{external-controller}}/ui`直接使用
 # secret: ""                          #控制器登录密码
