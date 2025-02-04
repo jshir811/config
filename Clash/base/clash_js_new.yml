@@ -21,7 +21,7 @@
   ####'*'                             #全部设备
   # 192.168.122.11                #单个ip4地址
   # "[aaaa::a8aa:ff:fe09:57d8]"   #单个ip6地址
-  
+
 ####mode: rule                 #clash工作模式（rule/global/direct,meta暂不支持script）
 
 ####log-level: info            #日志等级（info/warning/error/debug/silent）
@@ -113,11 +113,11 @@ experimental:
     ####- 'dlg.io.mi.com'
     ####- '+.apple.com'              #苹果域名，建议加
   # - '*.baidu.com'              #支持通配符
-    
+
   ####force-domain:                  #需要强制嗅探的域名，默认只对IP嗅探
   # - '+'                        #去掉注释后等于全局嗅探
     ####- 'google.com'
-    
+
   #port-whitelist:               #端口白名单，只对名单内的端口进行还原域名
   # - 80
   # - 443
@@ -131,26 +131,26 @@ experimental:
   ####enable: true                 #DNS开关(false/true)
   ####listen: 0.0.0.0:53           #DNS监听地址
   ####ipv6: true                #IP6解析开关；如果为false，将返回ip6结果为空
-  
+
   ####default-nameserver:          #解析非IP的dns用的dns服务器,只支持纯IP
     ####- 114.114.114.114
     ####- 8.8.8.8
-    
+
   #nameserver-policy:                #指定域名使用自定义DNS解析
   # 'www.baidu.com': 'https://223.5.5.5/dns-query'
   # '+.internal.crop.com': '114.114.114.114'
-  
+
   ####enhanced-mode: fake-ip          #DNS模式(redir-host/fake-ip)
                                      #【Meta专属】redir-host传递域名，可远程解析
   ####fake-ip-range: 198.18.0.1/16       #Fake-IP解析地址池
   # use-hosts: true                  #查询hosts配置并返回真实IP
-  
+
   # fake-ip-filter:                  #Fake-ip过滤，列表中的域名返回真实ip
   #   - '*.lan'
   #   - '*.linksys.com'
   #   - '+.pool.ntp.org'
   #   - localhost.ptlogin2.qq.com
-  
+
   #proxy-server-nameserver:          #【Meta专属】解析代理服务器域名的dns
   # - tls://1.0.0.1:853              # 不写时用nameserver解析
 
@@ -164,14 +164,14 @@ experimental:
     ####- dhcp://en0 # dns from dhcp
     ####- quic://dns.adguard.com:784 # DNS over QUIC
     # - '8.8.8.8#en0' # 兼容指定DNS出口网卡
-    
+
   ####fallback:                          #回落DNS服务器，支持udp/tcp/dot/doh/doq
     ####- https://doh.dns.sb/dns-query
     ####- tcp://208.67.222.222:443
     ####- quic://a.passcloud.xyz:784     #【Meta专属】Dns over quic
     ####- 'tls://8.8.4.4:853#DNSg'       #【Meta专属】"#DNSg"代表该DNS服务器通过
                                      # 名为"DNSg"的proxy Group访问
-                                     
+
   ####fallback-filter:                   #回落DNS服务器过滤
     ####geoip: true                      #为真时，不匹配为geoip规则的使用fallback返回结果
     ####geoip-code: CN                   #geoip匹配区域设定
