@@ -53,17 +53,21 @@ profile:
   #fake-ip缓存
   store-fake-ip: true
 
-sniffer:                         #【Meta专属】sniffer域名嗅探器
+#【Meta专属】sniffer域名嗅探器
+sniffer:
   enable: true                   #嗅探开关
-  sniffing:                      #嗅探协议对象：目前支持tls/http
+  #嗅探协议对象：目前支持tls/http
+  sniffing:
     - tls
     - http
-  skip-domain:                   #列表中的sni字段，保留mapping结果，不通过嗅探还原域名#优先级比force-domain高
+  #列表中的sni字段，保留mapping结果，不通过嗅探还原域名#优先级比force-domain高
+  skip-domain:
     - 'Mijia Cloud'              #米家设备，建议加
     - 'dlg.io.mi.com'
     - '+.apple.com'              #苹果域名，建议加
   # - '*.baidu.com'              #支持通配符
-  force-domain:                  #需要强制嗅探的域名，默认只对IP嗅探
+  #需要强制嗅探的域名，默认只对IP嗅探
+  force-domain:
   # - '+'                        #去掉注释后等于全局嗅探
     - 'google.com'
   #port-whitelist:               #端口白名单，只对名单内的端口进行还原域名
@@ -96,7 +100,8 @@ dns:
   #   - localhost.ptlogin2.qq.com
   #proxy-server-nameserver:          #【Meta专属】解析代理服务器域名的dns
   # - tls://1.0.0.1:853              # 不写时用nameserver解析
-  nameserver:                        #默认DNS服务器，支持udp/tcp/dot/doh/doq
+  #默认DNS服务器，支持udp/tcp/dot/doh/doq
+  nameserver:
     - 114.114.114.114 # default value
     - 8.8.8.8 # default value
     - tls://223.5.5.5:853 # DNS over TLS
@@ -106,19 +111,24 @@ dns:
     - dhcp://en0 # dns from dhcp
     - quic://dns.adguard.com:784 # DNS over QUIC
     # - '8.8.8.8#en0' # 兼容指定DNS出口网卡
-  fallback:                          #回落DNS服务器，支持udp/tcp/dot/doh/doq
+  #回落DNS服务器，支持udp/tcp/dot/doh/doq
+  fallback:
     - https://doh.dns.sb/dns-query
     - tcp://208.67.222.222:443
     - quic://a.passcloud.xyz:784     #【Meta专属】Dns over quic
     - 'tls://8.8.4.4:853#DNSg'       #【Meta专属】"#DNSg"代表该DNS服务器通过# 名为"DNSg"的proxy Group访问
-  fallback-filter:                   #回落DNS服务器过滤
+  #回落DNS服务器过滤
+  fallback-filter:
     geoip: true                      #为真时，不匹配为geoip规则的使用fallback返回结果
     geoip-code: CN                   #geoip匹配区域设定
-    geosite:                         #【Meta专属】设定geosite某分类使用fallback返回结果
+    #【Meta专属】设定geosite某分类使用fallback返回结果
+    geosite:
       - gfw
-    ipcidr:                          #列表中的ip使用fallback返回解析结果
+    #列表中的ip使用fallback返回解析结果
+    ipcidr:
       - 240.0.0.0/4
-    domain:                          #列表中的域名使用fallback返回解析结果
+    #列表中的域名使用fallback返回解析结果
+    domain:
       - '+.google.com'
       - '+.facebook.com'
       - '+.youtube.com'
