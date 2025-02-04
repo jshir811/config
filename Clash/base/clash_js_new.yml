@@ -17,8 +17,8 @@ mixed-port: 7890             #本地混合代理(http和socks5合并）端口
                              # 并发所有IP，选择握手最快的IP进行连接
 
 allow-lan: true                  #允许局域网连接(false/true)
-bind-address:                      #监听IP白名单（当allow-lan：true），只允许列表设备
-  '*'                             #全部设备
+bind-address: '*'                  #监听IP白名单（当allow-lan：true），只允许列表设备
+  ####'*'                             #全部设备
   # 192.168.122.11                #单个ip4地址
   # "[aaaa::a8aa:ff:fe09:57d8]"   #单个ip6地址
   
@@ -157,17 +157,17 @@ dns:
   nameserver:                        #默认DNS服务器，支持udp/tcp/dot/doh/doq
     - 114.114.114.114 # default value
     - 8.8.8.8 # default value
-    - tls://223.5.5.5:853 # DNS over TLS
+    ####- tls://223.5.5.5:853 # DNS over TLS
     - https://doh.pub/dns-query # DNS over HTTPS
     ####- https://dns.alidns.com/dns-query#h3=true #【Meta专属】强制HTTP/3
     ####- https://mozilla.cloudflare-dns.com/dns-query#DNS&h3=true #【Meta专属】指定策略组和使用 HTTP/3
-    - dhcp://en0 # dns from dhcp
+    ####- dhcp://en0 # dns from dhcp
     ####- quic://dns.adguard.com:784 # DNS over QUIC
     # - '8.8.8.8#en0' # 兼容指定DNS出口网卡
     
   fallback:                          #回落DNS服务器，支持udp/tcp/dot/doh/doq
     - https://doh.dns.sb/dns-query
-    - tcp://208.67.222.222:443
+    ####- tcp://208.67.222.222:443
     ####- quic://a.passcloud.xyz:784     #【Meta专属】Dns over quic
     ####- 'tls://8.8.4.4:853#DNSg'       #【Meta专属】"#DNSg"代表该DNS服务器通过
                                      # 名为"DNSg"的proxy Group访问
