@@ -102,21 +102,21 @@ profile:                   #缓存设置(文件位置./cache.db)
 #   'alpha.clash.dev': '::1'
 
 
-sniffer:                         #【Meta专属】sniffer域名嗅探器
-  enable: true                   #嗅探开关
-  sniffing:                      #嗅探协议对象：目前支持tls/http
-    - tls
-    - http
-  skip-domain:                   #列表中的sni字段，保留mapping结果，不通过嗅探还原域名
+####sniffer:                         #【Meta专属】sniffer域名嗅探器
+  ####enable: true                   #嗅探开关
+  ####sniffing:                      #嗅探协议对象：目前支持tls/http
+    ####- tls
+    ####- http
+  ####skip-domain:                   #列表中的sni字段，保留mapping结果，不通过嗅探还原域名
                                  #优先级比force-domain高
-    - 'Mijia Cloud'              #米家设备，建议加
-    - 'dlg.io.mi.com'
-    - '+.apple.com'              #苹果域名，建议加
+    ####- 'Mijia Cloud'              #米家设备，建议加
+    ####- 'dlg.io.mi.com'
+    ####- '+.apple.com'              #苹果域名，建议加
   # - '*.baidu.com'              #支持通配符
     
-  force-domain:                  #需要强制嗅探的域名，默认只对IP嗅探
+  ####force-domain:                  #需要强制嗅探的域名，默认只对IP嗅探
   # - '+'                        #去掉注释后等于全局嗅探
-    - 'google.com'
+    ####- 'google.com'
     
   #port-whitelist:               #端口白名单，只对名单内的端口进行还原域名
   # - 80
