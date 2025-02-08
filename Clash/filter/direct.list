@@ -50,3 +50,5 @@ DOMAIN-SUFFIX,fongmi.android.tv
 DOMAIN-SUFFIX,puds.ucweb.com
 DOMAIN-SUFFIX,api.open.uc.cn
 DOMAIN-SUFFIX,api.mp.uc.cn
+# > 知网
+DOMAIN-SUFFIX,cnki.net
