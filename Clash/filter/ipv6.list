@@ -1,34 +1,34 @@
 # > IPv6
-IP-CIDR, ::/0
+IP-CIDR,::/0
 # > 北邮人
-DOMAIN-SUFFIX, bt.byr.cn
+DOMAIN-SUFFIX,bt.byr.cn
 # > IPv6之家
-DOMAIN-SUFFIX, ipv6home.cn
+DOMAIN-SUFFIX,ipv6home.cn
 # > CNGI高校驻地网
-DOMAIN-SUFFIX, 6rank.edu.cn
+DOMAIN-SUFFIX,6rank.edu.cn
 # > 北邮人TV
-DOMAIN-SUFFIX, iptv.bupt.edu.cn
+DOMAIN-SUFFIX,iptv.bupt.edu.cn
 # > 6快播资源导航
-DOMAIN-SUFFIX, 6kuaibo.com
+DOMAIN-SUFFIX,6kuaibo.com
 # > 怒放资源导航
-DOMAIN-SUFFIX, nufangys.com
+DOMAIN-SUFFIX,nufangys.com
 # > Google IPv6
-DOMAIN-SUFFIX, ipv6.google.com
-DOMAIN-SUFFIX, ipv6test.google.com
-DOMAIN-KEYWORD, ipv6test.ds.metric.gstatic.com
+DOMAIN-SUFFIX,ipv6.google.com
+DOMAIN-SUFFIX,ipv6test.google.com
+DOMAIN-KEYWORD,ipv6test.ds.metric.gstatic.com
 # > 六维空间
-DOMAIN-SUFFIX, bt.neu6.edu.cn
+DOMAIN-SUFFIX,bt.neu6.edu.cn
 # > 晨光（北交大）
-DOMAIN-SUFFIX, cgbt.cn
+DOMAIN-SUFFIX,cgbt.cn
 # > TB 乐乎（上海大学）
 DOMAIN-SUFFIX,bt.shu6.edu.cn
 # > IPv6 Test
 DOMAIN-SUFFIX,test-ipv6.com
 # > GVDB
-DOMAIN-SUFFIX, gvdb.org
+DOMAIN-SUFFIX,gvdb.org
 # > LibTorrent
-DOMAIN-SUFFIX, libtorrent.org
+DOMAIN-SUFFIX,libtorrent.org
 # > IPv6 Tsinghua
-DOMAIN-SUFFIX, ipv6.tsinghua.edu.cn
+DOMAIN-SUFFIX,ipv6.tsinghua.edu.cn
 # > EUserv IPv6
-DOMAIN-SUFFIX, kundencontroller.de
+DOMAIN-SUFFIX,kundencontroller.de
