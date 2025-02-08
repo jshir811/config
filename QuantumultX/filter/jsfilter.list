@@ -47,3 +47,5 @@ HOST-SUFFIX, dldir1v6.qq.com, Mainland
 HOST-SUFFIX, homeassistant.local, Mainland, no-resolve
 # > TVBox Fongmi OKTV
 HOST-SUFFIX, fongmi.android.tv, Mainland
+# > 知网
+HOST-SUFFIX,cnki.net,Mainland
