@@ -54,3 +54,5 @@ DOMAIN-SUFFIX,api.mp.uc.cn
 DOMAIN-SUFFIX,cnki.net
 # > 直播源
 DOMAIN-SUFFIX,bgithub.xyz
+# > GitHub代理
+DOMAIN-SUFFIX,ghp.ci
