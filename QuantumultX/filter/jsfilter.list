@@ -1,50 +1,46 @@
 # > 乐播投屏码加载
-HOST-SUFFIX, www.hpplay.com.cn, Mainland
-HOST-SUFFIX, h5.hpplay.com.cn, Mainland
+HOST-SUFFIX,www.hpplay.com.cn,Mainland
+HOST-SUFFIX,h5.hpplay.com.cn,Mainland
 # > 今日头条，似乎影响知乎图片加载
-HOST-SUFFIX, log.snssdk.com, Mainland
+HOST-SUFFIX,log.snssdk.com,Mainland
 # > 115网盘
-HOST-SUFFIX, 115.com, Mainland
+HOST-SUFFIX,115.com,Mainland
 # > 四达海外OA
-HOST-SUFFIX, hwoa.startimes.com.cn, Outside
+HOST-SUFFIX,hwoa.startimes.com.cn,Outside
 # > Tidal
-HOST-SUFFIX, tidal.com, Outside
+HOST-SUFFIX,tidal.com,Outside
 # > Dreamspark发卡商店
-HOST-SUFFIX, shop.dreamspark.ac.cn, Outside
-# > LE
-HOST-SUFFIX, lucasentertainment.com, Outside
+HOST-SUFFIX,shop.dreamspark.ac.cn,Outside
 # > 知乎内容加载
-HOST-SUFFIX, appcloud2.zhihu.com, Mainland
-HOST-SUFFIX, sugar.zhihu.com, Mainland
+HOST-SUFFIX,appcloud2.zhihu.com,Mainland
+HOST-SUFFIX,sugar.zhihu.com,Mainland
 # > 嘀哩嘀哩影视
-HOST-SUFFIX, dilidili.live, Mainland
-HOST-SUFFIX, diliktv.com, Mainland
-# > pqvt
-HOST-SUFFIX, waybig.com, Outside
+HOST-SUFFIX,dilidili.live,Mainland
+HOST-SUFFIX,diliktv.com,Mainland
 # > 南洋理工大学
-HOST-SUFFIX, ntu.edu.sg, Mainland
-# > GVDB
-HOST-SUFFIX, gvdb.org, IPv6
+HOST-SUFFIX,ntu.edu.sg,Mainland
 # > LibTorrent
-HOST-SUFFIX, libtorrent.org, IPv6
+HOST-SUFFIX,libtorrent.org,IPv6
 # > Termius
-HOST-SUFFIX, termius.com, Outside
+HOST-SUFFIX,termius.com,Outside
 # > 快贴同步
-HOST-SUFFIX, qtier.oss-accelerate.aliyuncs.com, Mainland
+HOST-SUFFIX,qtier.oss-accelerate.aliyuncs.com,Mainland
 # > 视频播放
-HOST-SUFFIX, ffzy-play4.com, Mainland
+HOST-SUFFIX,ffzy-play4.com,Mainland
 # > ChatGPT
-HOST-SUFFIX, openai.com, ChatGPT
+HOST-SUFFIX,openai.com,ChatGPT
 # > 英雄杀广告
-HOST-SUFFIX, szextshort.weixin.qq.com, Mainland
-HOST-SUFFIX, wxsnsdy.wxs.qq.com, Mainland
-HOST-SUFFIX, wxsnsdythumb.wxs.qq.com, Mainland
-IP-CIDR, 119.147.19.225/32, Mainland
-IP-CIDR, 183.47.124.77/32, Mainland
+HOST-SUFFIX,szextshort.weixin.qq.com,Mainland
+HOST-SUFFIX,wxsnsdy.wxs.qq.com,Mainland
+HOST-SUFFIX,wxsnsdythumb.wxs.qq.com,Mainland
+IP-CIDR,119.147.19.225/32,Mainland
+IP-CIDR,183.47.124.77/32,Mainland
 # > 微信Windows版本下载
-HOST-SUFFIX, dldir1v6.qq.com, Mainland
+HOST-SUFFIX,dldir1v6.qq.com,Mainland
 # > Home Assistant
-HOST-SUFFIX, homeassistant.local, Mainland, no-resolve
+HOST-SUFFIX,homeassistant.local,Mainland,no-resolve
+# > 直播源
+HOST-SUFFIX,bgithub.xyz,Mainland
 # > TVBox Fongmi OKTV
 HOST-SUFFIX, fongmi.android.tv, Mainland
 # > 知网
