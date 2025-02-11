@@ -15,8 +15,8 @@ HOST-SUFFIX,shop.dreamspark.ac.cn,Outside
 HOST-SUFFIX,appcloud2.zhihu.com,Mainland
 HOST-SUFFIX,sugar.zhihu.com,Mainland
 # > 嘀哩嘀哩影视
-HOST-SUFFIX,dilidili.live,Mainland
-HOST-SUFFIX,diliktv.com,Mainland
+HOST-SUFFIX,dilidili.live,China Media
+HOST-SUFFIX,diliktv.com,China Media
 # > 南洋理工大学
 HOST-SUFFIX,ntu.edu.sg,Mainland
 # > LibTorrent
@@ -26,8 +26,34 @@ HOST-SUFFIX,termius.com,Outside
 # > 快贴同步
 HOST-SUFFIX,qtier.oss-accelerate.aliyuncs.com,Mainland
 # > 视频播放
-HOST-SUFFIX,ffzy-play4.com,Mainland
-HOST-SUFFIX,xifanys.com,Mainland
+HOST-SUFFIX,ffzy-play4.com,China Media
+HOST-SUFFIX,svip.high25-playback.com,China Media
+#HOST-SUFFIX,yingshi.tv,China Media
+HOST-SUFFIX,appmovie.click,China Media
+HOST-SUFFIX,wework.qpic.cn,China Media
+HOST-SUFFIX,v.damoli.pro,China Media
+HOST-SUFFIX,yijia5.com,China Media
+HOST-SUFFIX,cdnlz3.com,China Media
+HOST-SUFFIX,ffzy-online5.com,China Media
+HOST-SUFFIX,pqrssu.com,China Media
+HOST-SUFFIX,lzcdn2.com,China Media
+HOST-SUFFIX,ryplay11.com,China Media
+HOST-SUFFIX,nqfztcddi2yh.com,China Media
+HOST-SUFFIX,yyzy-play.vip,China Media
+HOST-SUFFIX,bulkcdn.top,China Media
+HOST-SUFFIX,akamaized.net,China Media
+HOST-SUFFIX,cdnlz21.com,China Media
+HOST-SUFFIX,ctyunxs.cn,China Media
+HOST-SUFFIX,xhscdn.com,China Media
+HOST-SUFFIX,resso.me,China Media
+HOST-SUFFIX,a8ys.top,China Media
+HOST-SUFFIX,soupian.pro,China Media
+HOST-SUFFIX,nfysfaemv1m2.com,China Media
+HOST-SUFFIX,iklmno.com,China Media
+HOST-SUFFIX,zhuiyingmao3.com,China Media
+HOST-SUFFIX,healthcareqh.com,China Media
+HOST-SUFFIX,cdn.ryplay11.com,China Media
+HOST-SUFFIX,v16m-default.akamaized.net,China Media
 # > ChatGPT
 HOST-SUFFIX,openai.com,ChatGPT
 # > 英雄杀广告
