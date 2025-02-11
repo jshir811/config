@@ -27,6 +27,7 @@ HOST-SUFFIX,termius.com,Outside
 HOST-SUFFIX,qtier.oss-accelerate.aliyuncs.com,Mainland
 # > 视频播放
 HOST-SUFFIX,ffzy-play4.com,Mainland
+HOST-SUFFIX,xifanys.com,Mainland
 # > ChatGPT
 HOST-SUFFIX,openai.com,ChatGPT
 # > 英雄杀广告
