@@ -45,3 +45,5 @@ HOST-SUFFIX,bgithub.xyz,Mainland
 HOST-SUFFIX, fongmi.android.tv, Mainland
 # > 知网
 HOST-SUFFIX,cnki.net,Mainland
+# > GitHub代理
+HOST-SUFFIX,ghp.ci,Mainland
