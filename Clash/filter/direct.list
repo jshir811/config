@@ -18,18 +18,12 @@ DOMAIN-SUFFIX,dm.bytedance.com
 DOMAIN-SUFFIX,appcloud2.zhihu.com
 DOMAIN-SUFFIX,sugar.zhihu.com
 DOMAIN-SUFFIX,mqtt.zhihu.com
-# > 嘀哩嘀哩影视
-DOMAIN-SUFFIX,dilidili.live
-DOMAIN-SUFFIX,diliktv.com
 # > Teambition
 DOMAIN-SUFFIX,teambition.net
 # > 百度智能云
 DOMAIN-SUFFIX,bce.baidu.com
 # > 麦软
 DOMAIN-KEYWORD,mairuan
-# > 视频播放
-DOMAIN-SUFFIX,ffzy-play4.com
-DOMAIN-SUFFIX,xifanys.com
 # > 娱心数卡
 DOMAIN-SUFFIX,cfssq.com
 # > QQ音乐
