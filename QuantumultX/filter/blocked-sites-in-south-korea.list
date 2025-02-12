@@ -1122,4 +1122,4 @@ HOST-SUFFIX,waybig.com, 🚪 Blocked Sites in South Korea
 HOST-SUFFIX, iconmale.com, 🚪 Blocked Sites in South Korea
 HOST-SUFFIX,gvdb.org, 🚪 Blocked Sites in South Korea
 # > Google Search
-DOMAIN-KEYWORD, www.google., 🚪 Blocked Sites in South Korea
+HOST-KEYWORD, www.google., 🚪 Blocked Sites in South Korea
