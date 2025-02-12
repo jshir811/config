@@ -71,6 +71,8 @@ HOST-SUFFIX,cdn.wls911.com,China Media
 HOST-SUFFIX,c1.rrcdnbf5.com,China Media
 HOST-KEYWORD,c1.rrcdnbf,China Media
 HOST-KEYWORD,vip.lz-cdn,China Media
+HOST-KEYWORD,cdnlz,China Media
+HOST-KEYWORD,lzcdn,China Media
 # > ChatGPT
 HOST-SUFFIX,openai.com,ChatGPT
 # > 英雄杀广告
