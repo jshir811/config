@@ -98,4 +98,4 @@ HOST-SUFFIX,cnki.net,Mainland
 # > GitHub代理
 HOST-SUFFIX,ghp.ci,Mainland
 # > UC浏览器
-HOST-SUFFIX,api.open.uc.cn
+HOST-SUFFIX,api.open.uc.cn,Mainland
