@@ -51,3 +51,5 @@ DOMAIN-SUFFIX,cnki.net
 DOMAIN-SUFFIX,bgithub.xyz
 # > GitHub代理
 DOMAIN-SUFFIX,ghp.ci
+# > UC浏览器
+DOMAIN-SUFFIX,api.open.uc.cn
