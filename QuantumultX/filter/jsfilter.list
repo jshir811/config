@@ -101,5 +101,7 @@ HOST-SUFFIX,cnki.net,Mainland
 HOST-SUFFIX,ghp.ci,Mainland
 # > UC浏览器
 HOST-SUFFIX,api.open.uc.cn,Mainland
+# > Emby公益服
+HOST-SUFFIX,emby.ucloudhost.top,Mainland
 # Amazon IP
 HOST-SUFFIX,checkip.amazonaws.com,Mainland
