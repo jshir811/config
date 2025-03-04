@@ -7,3 +7,5 @@ DOMAIN-SUFFIX,diskgenius.cn
 DOMAIN-SUFFIX,80lib.com
 # > Adobe
 DOMAIN-SUFFIX,adobe.com
+# > TMDB
+DOMAIN-SUFFIX,image.tmdb.com
