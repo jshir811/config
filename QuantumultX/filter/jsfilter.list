@@ -105,3 +105,5 @@ HOST-SUFFIX,api.open.uc.cn,Mainland
 HOST-SUFFIX,emby.ucloudhost.top,Mainland
 # Amazon IP
 HOST-SUFFIX,checkip.amazonaws.com,Mainland
+# > 搜狗输入法
+HOST-SUFFIX,get.sougou.com,Mainland
