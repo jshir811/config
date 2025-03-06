@@ -106,7 +106,7 @@ HOST-SUFFIX,emby.ucloudhost.top,Mainland
 # Amazon IP
 HOST-SUFFIX,checkip.amazonaws.com,Mainland
 # > 搜狗输入法
-HOST-SUFFIX,get.sougou.com,Mainland
+HOST-SUFFIX,get.sogou.com,Mainland
 # > The Movie Database
 HOST-SUFFIX,api.themoviedb.org,Mainland
 # > TMDB
