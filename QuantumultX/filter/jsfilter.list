@@ -112,3 +112,5 @@ HOST-SUFFIX,api.themoviedb.org,Mainland
 # > TMDB
 HOST-SUFFIX,image.tmdb.com,Mainland
 HOST-SUFFIX,input.shouji.sogou.com,Mainland
+# > 小米
+HOST-SUFFIX,api.developer.xiaomi.com,Mainland
