@@ -56,3 +56,5 @@ DOMAIN-SUFFIX,api.open.uc.cn
 # > 搜狗输入法
 DOMAIN-SUFFIX,get.sogou.com
 DOMAIN-SUFFIX,input.shouji.sogou.com
+# > 小米
+DOMAIN-SUFFIX,api.developer.xiaomi.com
