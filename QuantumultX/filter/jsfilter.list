@@ -108,9 +108,9 @@ HOST-SUFFIX,checkip.amazonaws.com,Mainland
 # > 搜狗输入法
 HOST-SUFFIX,get.sogou.com,Mainland
 # > The Movie Database
-HOST-SUFFIX,api.themoviedb.org,Mainland
-# > TMDB
-HOST-SUFFIX,image.tmdb.com,Mainland
+HOST-SUFFIX,api.themoviedb.org,Outside
+HOST-SUFFIX,image.tmdb.com,Outside
+# > 搜狗输入法
 HOST-SUFFIX,input.shouji.sogou.com,Mainland
 # > 小米
 HOST-SUFFIX,api.developer.xiaomi.com,Mainland
