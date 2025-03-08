@@ -117,4 +117,4 @@ HOST-SUFFIX,api.developer.xiaomi.com,Mainland
 HOST-SUFFIX,mi-img.com,Mainland
 HOST-SUFFIX,data.sec.miui.com,Mainland
 # > 中国移动云盘
-HOST-SUFFIX,senlog.cmpassport.com,Mainland
+HOST-SUFFIX,cmpassport.com,Mainland
