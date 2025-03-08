@@ -8,5 +8,5 @@ DOMAIN-SUFFIX,80lib.com
 # > Adobe
 DOMAIN-SUFFIX,adobe.com
 # > TMDB
-DOMAIN-SUFFIX,image.tmdb.com
+DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,themoviedb.org
