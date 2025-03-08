@@ -584,5 +584,3 @@ DOMAIN,suboimage.com
 DOMAIN,img.ffzy888.com
 # > Emby公益服
 DOMAIN-SUFFIX,emby.ucloudhost.top
-# > The Movie Database
-DOMAIN-SUFFIX,api.themoviedb.org
