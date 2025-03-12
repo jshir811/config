@@ -118,3 +118,5 @@ HOST-SUFFIX,mi-img.com,Mainland
 HOST-SUFFIX,data.sec.miui.com,Mainland
 # > 中国移动云盘
 HOST-SUFFIX,cmpassport.com,Mainland
+# > 百度网盘
+HOST-SUFFIX,update.pan.baidu.com,Mainland
