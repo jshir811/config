@@ -62,3 +62,5 @@ DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,data.sec.miui.com
 # > 中国移动云盘
 DOMAIN-SUFFIX,cmpassport.com
+# > 百度网盘
+DOMAIN-SUFFIX,update.pan.baidu.com
