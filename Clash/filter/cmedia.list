@@ -55,6 +55,7 @@ DOMAIN-SUFFIX,ryplay1.com
 DOMAIN-SUFFIX,svip.high21-playback.com
 DOMAIN-SUFFIX,dc.xhscdn.com
 DOMAIN-SUFFIX,cdn8.ryplay8.com
+DOMAIN-KEYWORD,play-cdn
 
 #!url=https://raw.githubusercontent.com/fangkuia/XPTV/main/X/xptv.sgmodule
 #!name=XPTV规则
