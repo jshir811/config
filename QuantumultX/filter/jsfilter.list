@@ -100,7 +100,10 @@ HOST-SUFFIX,cnki.net,Mainland
 # > GitHub代理
 HOST-SUFFIX,ghp.ci,Mainland
 # > UC浏览器
+HOST-SUFFIX,puds.ucweb.com,Mainland
 HOST-SUFFIX,api.open.uc.cn,Mainland
+HOST-SUFFIX,api.mp.uc.cn,Mainland
+HOST-SUFFIX,access.open.uc.cn,Mainland
 # > Emby公益服
 HOST-SUFFIX,emby.ucloudhost.top,Mainland
 # Amazon IP
