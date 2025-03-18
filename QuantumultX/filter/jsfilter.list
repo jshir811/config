@@ -106,6 +106,10 @@ HOST-SUFFIX,puds.ucweb.com,Mainland
 HOST-SUFFIX,api.open.uc.cn,Mainland
 HOST-SUFFIX,api.mp.uc.cn,Mainland
 HOST-SUFFIX,access.open.uc.cn,Mainland
+HOST,puds.ucweb.com,Mainland
+HOST,api.open.uc.cn,Mainland
+HOST,api.mp.uc.cn,Mainland
+HOST,access.open.uc.cn,Mainland
 # > Emby公益服
 HOST-SUFFIX,emby.ucloudhost.top,Mainland
 # Amazon IP
