@@ -152,3 +152,6 @@ HOST,bj.bcebos.com,Mainland
 # > 央视频刷新在线状态
 HOST-SUFFIX,mtrace.ysp.cctv.cn,Mainland
 HOST,mtrace.ysp.cctv.cn,Mainland
+# > 央视频视频广告
+HOST-SUFFIX,cdn.cmgadx.com,REJECT
+HOST,cdn.cmgadx.com,REJECT
