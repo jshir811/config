@@ -91,16 +91,22 @@ IP-CIDR,119.147.19.225/32,Mainland
 IP-CIDR,183.47.124.77/32,Mainland
 # > 微信Windows版本下载
 HOST-SUFFIX,dldir1v6.qq.com,Mainland
+HOST,dldir1v6.qq.com,Mainland
 # > Home Assistant
 HOST-SUFFIX,homeassistant.local,Mainland,no-resolve
+HOST,homeassistant.local,Mainland,no-resolve
 # > 直播源
 HOST-SUFFIX,bgithub.xyz,Mainland
+HOST,bgithub.xyz,Mainland
 # > TVBox Fongmi OKTV
-HOST-SUFFIX, fongmi.android.tv, Mainland
+HOST-SUFFIX,fongmi.android.tv,Mainland
+HOST,fongmi.android.tv,Mainland
 # > 知网
 HOST-SUFFIX,cnki.net,Mainland
+HOST,cnki.net,Mainland
 # > GitHub代理
 HOST-SUFFIX,ghp.ci,Mainland
+HOST,ghp.ci,Mainland
 # > UC浏览器
 HOST-SUFFIX,puds.ucweb.com,Mainland
 HOST-SUFFIX,api.open.uc.cn,Mainland
@@ -112,24 +118,37 @@ HOST,api.mp.uc.cn,Mainland
 HOST,access.open.uc.cn,Mainland
 # > Emby公益服
 HOST-SUFFIX,emby.ucloudhost.top,Mainland
+HOST,emby.ucloudhost.top,Mainland
 # Amazon IP
 HOST-SUFFIX,checkip.amazonaws.com,Mainland
+HOST,checkip.amazonaws.com,Mainland
 # > 搜狗输入法
 HOST-SUFFIX,get.sogou.com,Mainland
+HOST,get.sogou.com,Mainland
 # > The Movie Database
 HOST-SUFFIX,tmdb.org,Outside
+HOST,tmdb.org,Outside
 HOST-SUFFIX,image.tmdb.com,Outside
+HOST,image.tmdb.com,Outside
 # > 搜狗输入法
 HOST-SUFFIX,input.shouji.sogou.com,Mainland
+HOST,input.shouji.sogou.com,Mainland
 # > 小米
 HOST-SUFFIX,api.developer.xiaomi.com,Mainland
+HOST,api.developer.xiaomi.com,Mainland
 HOST-SUFFIX,mi-img.com,Mainland
+HOST,mi-img.com,Mainland
 HOST-SUFFIX,data.sec.miui.com,Mainland
+HOST,data.sec.miui.com,Mainland
 # > 中国移动云盘
 HOST-SUFFIX,cmpassport.com,Mainland
+HOST,cmpassport.com,Mainland
 # > 百度网盘
 HOST-SUFFIX,update.pan.baidu.com,Mainland
+HOST,update.pan.baidu.com,Mainland
 # > 百度地图
 HOST-SUFFIX,bj.bcebos.com,Mainland
+HOST,bj.bcebos.com,Mainland
 # > 央视频刷新在线状态
 HOST-SUFFIX,mtrace.ysp.cctv.cn,Mainland
+HOST,mtrace.ysp.cctv.cn,Mainland
