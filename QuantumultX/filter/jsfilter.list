@@ -131,3 +131,5 @@ HOST-SUFFIX,cmpassport.com,Mainland
 HOST-SUFFIX,update.pan.baidu.com,Mainland
 # > 百度地图
 HOST-SUFFIX,bj.bcebos.com,Mainland
+# > 央视频刷新在线状态
+HOST-SUFFIX,mtrace.ysp.cctv.cn,Mainland
