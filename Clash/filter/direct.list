@@ -83,6 +83,3 @@ DOMAIN,update.pan.baidu.com
 # > 百度地图
 DOMAIN-SUFFIX,bj.bcebos.com
 DOMAIN,bj.bcebos.com
-# > 央视频刷新在线状态
-DOMAIN-SUFFIX,mtrace.ysp.cctv.cn
-DOMAIN,mtrace.ysp.cctv.cn
