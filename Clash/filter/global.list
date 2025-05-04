@@ -1,12 +1,19 @@
 # > Bandicam
 DOMAIN-SUFFIX,bandicam.com
+DOMAIN,bandicam.com
 # > DiskGenius
 DOMAIN-SUFFIX,diskgenius.com
 DOMAIN-SUFFIX,diskgenius.cn
+DOMAIN,diskgenius.com
+DOMAIN,diskgenius.cn
 # > 80图书馆
 DOMAIN-SUFFIX,80lib.com
+DOMAIN,80lib.com
 # > Adobe
 DOMAIN-SUFFIX,adobe.com
+DOMAIN,adobe.com
 # > TMDB
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,themoviedb.org
+DOMAIN,tmdb.org
+DOMAIN,themoviedb.org
