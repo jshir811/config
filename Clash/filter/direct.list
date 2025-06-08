@@ -83,3 +83,6 @@ DOMAIN,update.pan.baidu.com
 # > 百度地图
 DOMAIN-SUFFIX,bj.bcebos.com
 DOMAIN,bj.bcebos.com
+# > 企鹅体育登录
+DOMAIN-SUFFIX,oauth2.umeng.com
+DOMAIN,oauth2.umeng.com
