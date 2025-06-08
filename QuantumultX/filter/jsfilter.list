@@ -155,3 +155,6 @@ HOST,mtrace.ysp.cctv.cn,Mainland
 # > 央视频视频广告
 HOST-SUFFIX,cdn.cmgadx.com,REJECT
 HOST,cdn.cmgadx.com,REJECT
+# > 企鹅体育登录
+HOST-SUFFIX,oauth2.umeng.com,Mainland
+HOST,oauth2.umeng.com,Mainland
