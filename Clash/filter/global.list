@@ -22,3 +22,5 @@ IP-CIDR,0.0.0.0/24,no-resolve
 # > 网球游戏Tennis Arena广告
 DOMAIN-SUFFIX,applovin.com
 DOMAIN-SUFFIX,ads.vungle.com
+DOMAIN-SUFFIX,net.mtgglobals.com
+DOMAIN,net.mtgglobals.com
