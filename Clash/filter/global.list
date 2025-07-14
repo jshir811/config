@@ -28,6 +28,8 @@ DOMAIN-SUFFIX,o-sdk.mediation.unity3d.com
 DOMAIN,o-sdk.mediation.unity3d.com
 DOMAIN-SUFFIX,cdp.cloud.unity3d.com
 DOMAIN,cdp.cloud.unity3d.com
+DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
+DOMAIN,config.uca.cloud.unity3d.com
 DOMAIN-SUFFIX,monetization-sdk.chartboost.com
 DOMAIN-SUFFIX,api16-access-sg.pangle.io
 DOMAIN,api16-access-sg.pangle.io
