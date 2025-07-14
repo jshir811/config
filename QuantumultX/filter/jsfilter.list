@@ -165,6 +165,8 @@ HOST-SUFFIX,applovin.com,Outside
 HOST-SUFFIX,ads.vungle.com,Outside
 HOST-SUFFIX,net.mtgglobals.com,Outside
 HOST,net.mtgglobals.com,Outside
+HOST-SUFFIX,configure-tcp-ios.mtgglobals.com,Outside
+HOST,configure-tcp-ios.mtgglobals.com,Outside
 HOST-SUFFIX,o-sdk.mediation.unity3d.com,Outside
 HOST,o-sdk.mediation.unity3d.com,Outside
 HOST-SUFFIX,cdp.cloud.unity3d.com,Outside
