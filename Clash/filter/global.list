@@ -19,3 +19,16 @@ DOMAIN,tmdb.org
 DOMAIN,themoviedb.org
 # > IP地址
 IP-CIDR,0.0.0.0/24,no-resolve
+# > 网球游戏Tennis Arena广告
+DOMAIN-SUFFIX,a.applvn.com
+DOMAIN,a.applvn.com
+DOMAIN-SUFFIX,d.applvn.com
+DOMAIN,d.applvn.com
+DOMAIN-SUFFIX,applovin.com
+DOMAIN-SUFFIX,net.mtgglobals.com
+DOMAIN,net.mtgglobals.com
+DOMAIN-SUFFIX,monetization-sdk.chartboost.com
+DOMAIN-SUFFIX,logs.ads.vungle.com
+DOMAIN,logs.ads.vungle.com
+DOMAIN-SUFFIX,logs.ads.vungle.com
+DOMAIN,logs.ads.vungle.com
