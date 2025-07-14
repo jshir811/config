@@ -21,4 +21,3 @@ DOMAIN,themoviedb.org
 IP-CIDR,0.0.0.0/24,no-resolve
 # > 网球游戏Tennis Arena广告
 DOMAIN-SUFFIX,applovin.com
-DOMAIN-SUFFIX,mtgglobals.com
