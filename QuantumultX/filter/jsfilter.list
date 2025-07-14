@@ -160,3 +160,13 @@ HOST-SUFFIX,oauth2.umeng.com,Mainland
 HOST,oauth2.umeng.com,Mainland
 # > IP地址
 IP-CIDR,0.0.0.0/24,Outside,no-resolve
+# > 网球游戏Tennis Arena广告
+HOST-SUFFIX,applovin.com,Outside
+HOST-SUFFIX,ads.vungle.com,Outside
+HOST-SUFFIX,net.mtgglobals.com,Outside
+HOST,net.mtgglobals.com,Outside
+HOST-SUFFIX,o-sdk.mediation.unity3d.com,Outside
+HOST,o-sdk.mediation.unity3d.com,Outside
+HOST-SUFFIX,monetization-sdk.chartboost.com,Outside
+HOST-SUFFIX,api16-access-sg.pangle.io,Outside
+HOST,api16-access-sg.pangle.io,Outside
