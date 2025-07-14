@@ -24,6 +24,8 @@ DOMAIN-SUFFIX,applovin.com
 DOMAIN-SUFFIX,ads.vungle.com
 DOMAIN-SUFFIX,net.mtgglobals.com
 DOMAIN,net.mtgglobals.com
+DOMAIN-SUFFIX,configure-tcp-ios.mtgglobals.com
+DOMAIN,configure-tcp-ios.mtgglobals.com
 DOMAIN-SUFFIX,o-sdk.mediation.unity3d.com
 DOMAIN,o-sdk.mediation.unity3d.com
 DOMAIN-SUFFIX,cdp.cloud.unity3d.com
