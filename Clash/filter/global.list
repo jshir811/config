@@ -17,3 +17,5 @@ DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN,tmdb.org
 DOMAIN,themoviedb.org
+# > IP地址
+IP-CIDR,0.0.0.0/24,no-resolve
