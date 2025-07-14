@@ -158,3 +158,5 @@ HOST,cdn.cmgadx.com,REJECT
 # > 企鹅体育登录
 HOST-SUFFIX,oauth2.umeng.com,Mainland
 HOST,oauth2.umeng.com,Mainland
+# > IP地址
+IP-CIDR,0.0.0.0/24,Outside,no-resolve
