@@ -86,5 +86,3 @@ DOMAIN,bj.bcebos.com
 # > 企鹅体育登录
 DOMAIN-SUFFIX,oauth2.umeng.com
 DOMAIN,oauth2.umeng.com
-# > IP地址
-IP-CIDR,0.0.0.0/24,no-resolve
