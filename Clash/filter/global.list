@@ -33,3 +33,7 @@ DOMAIN,config.uca.cloud.unity3d.com
 DOMAIN-SUFFIX,monetization-sdk.chartboost.com
 DOMAIN-SUFFIX,api16-access-sg.pangle.io
 DOMAIN,api16-access-sg.pangle.io
+# > Telegram
+DOMAIN-SUFFIX,telegram.org
+DOMAIN,t.me
+DOMAIN-SUFFIX,t.me
