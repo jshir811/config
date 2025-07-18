@@ -174,3 +174,5 @@ HOST,config.uca.cloud.unity3d.com,Outside
 HOST-SUFFIX,monetization-sdk.chartboost.com,Outside
 HOST-SUFFIX,api16-access-sg.pangle.io,Outside
 HOST,api16-access-sg.pangle.io,Outside
+# > IP地址
+IP-CIDR,0.0.0.0/24,Mainland,no-resolve
