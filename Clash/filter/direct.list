@@ -86,3 +86,6 @@ DOMAIN,bj.bcebos.com
 # > 企鹅体育登录
 DOMAIN-SUFFIX,oauth2.umeng.com
 DOMAIN,oauth2.umeng.com
+# > 小米安装程序
+DOMAIN-SUFFIX,api.installer.xiaomi.com
+DOMAIN,api.installer.xiaomi.com
