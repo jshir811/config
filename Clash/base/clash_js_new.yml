@@ -75,6 +75,7 @@ profile:
 
 dns:
   enable: true # 是否启用dns false
+  prefer-h3: true
   ipv6: true
   #use-hosts:true
   listen: 0.0.0.0:53
@@ -89,6 +90,8 @@ dns:
      ##- '*.n.n.srv.nintendo.net'
      #- '*.lan'
      #- localhost.ptlogin2.qq.com
+  #nameserver-policy:
+     #'qianjiapp.com': '114.114.114.114'
   default-nameserver:
      - 223.5.5.5 # 阿里DNS
      - 180.76.76.76 # 百度DNS
