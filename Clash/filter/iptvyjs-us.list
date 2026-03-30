@@ -1,8 +1,24 @@
 # > IPTV研究所
 # 美国节点
-DOMAIN-SUFFIX,smart.pendy.dpdns.org
-DOMAIN-SUFFIX,sport.pendy.dpdns.org
-DOMAIN-SUFFIX,docker.livednow.dpdns.org
-DOMAIN-SUFFIX,youtube.livednow.dpdns.org
-
-DOMAIN-SUFFIX,tvpass.org
+DOMAIN-SUFFIX,catvod.com
+DOMAIN-SUFFIX,newtvsuper.com
+DOMAIN-SUFFIX,go-iptv.ggff.net
+DOMAIN-SUFFIX,z2u.com
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-SUFFIX,go-iptv.ggff.net
+DOMAIN-SUFFIX,litv.tzh911.qzz.io
+DOMAIN-SUFFIX,858.qzz.io
+DOMAIN-SUFFIX,bee.tzh911.qzz.io
+DOMAIN-SUFFIX,woshinibaba.tzh911.qzz.io
+DOMAIN-SUFFIX,cluster-cz5nqyh5nreq6ua6gaqd7okl7o.cloudworkstations.dev
+DOMAIN-SUFFIX,qzz.io
+DOMAIN-SUFFIX,pendy.dpdns.org
+DOMAIN-SUFFIX,diver.eu.org
+DOMAIN-SUFFIX,wrod.diver.eu.org
+DOMAIN-SUFFIX,judy.xx.kg
+DOMAIN-SUFFIX,8plus.eu.org
+DOMAIN-SUFFIX,ru8.dpdns.org
+DOMAIN-SUFFIX,vip-tptv.xyz
+DOMAIN-SUFFIX,hudsonvalleyhost.com
