@@ -37,6 +37,8 @@ DOMAIN,api16-access-sg.pangle.io
 DOMAIN-SUFFIX,telegram.org
 DOMAIN,t.me
 DOMAIN-SUFFIX,t.me
-# > FlClash检测IP
+# > IPTV研究所
+DOMAIN-SUFFIX,lioncdn.net
+DOMAIN-SUFFIX,passwdword.xyz
 DOMAIN-SUFFIX,ipapi.co
 DOMAIN,ipapi.co
