@@ -1,0 +1,22 @@
+# > IP检测
+DOMAIN,checkip.amazonaws.com
+DOMAIN,ipv4.icanhazip.com
+DOMAIN,api.ipify.org
+DOMAIN,4.icanhazip.com
+DOMAIN,4.ident.me
+DOMAIN,ipinfo.io
+DOMAIN,eth0.me
+DOMAIN,ipaddr.site
+DOMAIN,ipaddress.sh
+DOMAIN,ipcalf.com
+DOMAIN,ifcfg.cn
+DOMAIN,ipv4.ddnspod.com
+DOMAIN,api6.ipify.org
+DOMAIN,ipv6.icanhazip.com
+DOMAIN,6.icanhazip.com
+DOMAIN,6.ident.me
+DOMAIN,6.ipw.cn
+DOMAIN,v6.66666.host
+DOMAIN,v6.666666.host
+DOMAIN,ipv6.ddnspod.com
+DOMAIN,v6.66666.host
