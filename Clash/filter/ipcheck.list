@@ -1,9 +1,10 @@
-# > IP检测
+# > ipv4地址检测
 DOMAIN,checkip.amazonaws.com
 DOMAIN,ipv4.icanhazip.com
 DOMAIN,api.ipify.org
 DOMAIN,4.icanhazip.com
 DOMAIN,4.ident.me
+DOMAIN,v4.ident.me
 DOMAIN,ipinfo.io
 DOMAIN,eth0.me
 DOMAIN,ipaddr.site
@@ -11,12 +12,36 @@ DOMAIN,ipaddress.sh
 DOMAIN,ipcalf.com
 DOMAIN,ifcfg.cn
 DOMAIN,ipv4.ddnspod.com
+DOMAIN,4.ipw.cn
+DOMAIN,members.3322.org
+DOMAIN,ip.3322.net
+# > ipv4地址检测，返回不是纯文本
+DOMAIN,myip.ipip.net
+DOMAIN,ddns.oray.com
+DOMAIN,cip.cc
+# > ipv6地址检测
 DOMAIN,api6.ipify.org
+DOMAIN,api64.ipify.org
 DOMAIN,ipv6.icanhazip.com
 DOMAIN,6.icanhazip.com
 DOMAIN,6.ident.me
+DOMAIN,v6.ident.me
 DOMAIN,6.ipw.cn
 DOMAIN,v6.66666.host
 DOMAIN,v6.666666.host
 DOMAIN,ipv6.ddnspod.com
 DOMAIN,v6.66666.host
+DOMAIN,test.ipw.cn
+# > curl -4 和 curl -6都可以
+DOMAIN,ifconfig.co
+DOMAIN,ip.sb
+DOMAIN,ifconfig.me
+DOMAIN,ident.me
+DOMAIN-SUFFIX,ident.me
+DOMAIN,icanhazip.com
+DOMAIN,myip.wtf
+DOMAIN,wgetip.com
+DOMAIN,ipecho.net
+DOMAIN,ifconfig.io
+# > 国内服务器
+DOMAIN,ipw.cn
