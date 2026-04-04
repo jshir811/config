@@ -91,3 +91,5 @@ DOMAIN-SUFFIX,api.installer.xiaomi.com
 DOMAIN,api.installer.xiaomi.com
 # > 百度网盘静态资源
 DOMAIN,staticsns.cdn.bcebos.com
+# > 掘金网站
+DOMAIN-SUFFIX,juejin.cn
