@@ -93,3 +93,5 @@ DOMAIN,api.installer.xiaomi.com
 DOMAIN,staticsns.cdn.bcebos.com
 # > 掘金网站
 DOMAIN-SUFFIX,juejin.cn
+# > Steam国际版CDN下载区域
+DOMAIN-SUFFIX,steamserver.net
