@@ -43,3 +43,5 @@ DOMAIN,ipapi.co
 # > IPTV研究所
 DOMAIN-SUFFIX,lioncdn.net
 DOMAIN-SUFFIX,passwdword.xyz
+# > YouTube
+DOMAIN,you.tube
