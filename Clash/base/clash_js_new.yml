@@ -279,13 +279,13 @@ dns:
      geoip: true # 是否启用 geoip 判断
      geoip-code: CN # 可选值为 国家缩写，默认值为 CN，除了 geoip-code 配置的国家 IP, 其他的 IP 结果会被视为污染，geoip-code 配置的国家的结果会直接采用，否则将采用 fallback结果
      geosite: # 可选值为对于的 geosite 内包含的集合，geosite 列表的内容被视为已污染，匹配到 geosite 的域名，将只使用 fallback解析，不去使用 nameserver
-       - gfw
+       #- gfw
      ipcidr: # 书写内容为 IP/掩码，这些网段的结果会被视为污染，nameserver解析出这些结果时将会采用 fallback的解析结果
-       - 240.0.0.0/4
+       #- 240.0.0.0/4
      domain: # 这些域名被视为已污染，匹配到这些域名，会直接使用 fallback解析，不去使用 nameserver
-       - '+.google.com'
-       - '+.facebook.com'
-       - '+.youtube.com'
+       #- '+.google.com'
+       #- '+.facebook.com'
+       #- '+.youtube.com'
 
 # 实验性功能 hosts, 支持通配符 (例如 *.clash.dev 甚至 *.foo.*.example.com)
 # 静态的域名 比 通配域名 具有更高的优先级 (foo.example.com 优先于 *.example.com)
