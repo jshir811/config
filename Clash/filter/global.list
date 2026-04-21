@@ -33,16 +33,9 @@ DOMAIN,config.uca.cloud.unity3d.com
 DOMAIN-SUFFIX,monetization-sdk.chartboost.com
 DOMAIN-SUFFIX,api16-access-sg.pangle.io
 DOMAIN,api16-access-sg.pangle.io
-# > Telegram
-DOMAIN-SUFFIX,telegram.org
-DOMAIN,t.me
-DOMAIN-SUFFIX,t.me
 # > FlClash检测IP
 DOMAIN-SUFFIX,ipapi.co
 DOMAIN,ipapi.co
 # > IPTV研究所
 DOMAIN-SUFFIX,lioncdn.net
 DOMAIN-SUFFIX,passwdword.xyz
-# > YouTube
-DOMAIN,youtu.be
-DOMAIN-KEYWORD,youtu.be
