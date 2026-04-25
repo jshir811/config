@@ -95,3 +95,6 @@ DOMAIN,staticsns.cdn.bcebos.com
 DOMAIN-SUFFIX,juejin.cn
 # > Steam国际版CDN下载区域
 DOMAIN-SUFFIX,steamserver.net
+# > Wise银行账户
+DOMAIN,wise.com
+DOMAIN-SUFFIX,wise.com
