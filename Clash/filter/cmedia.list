@@ -591,5 +591,5 @@ DOMAIN,emby.ucloudhost.top
 DOMAIN-SUFFIX,mtrace.ysp.cctv.cn
 DOMAIN,mtrace.ysp.cctv.cn
 # > Tidb片头片尾探测
-DOMAIN,theintrodb.org
 DOMAIN-SUFFIX,theintrodb.org
+DOMAIN,theintrodb.org
