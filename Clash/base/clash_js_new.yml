@@ -1289,3 +1289,35 @@ cfw-bypass:
   - <local>
   # Home Assistant
   - "*homeassistant.local*"
+
+# 子规则：匹配到规则时,将请求送往另一规则流程,括号内可以使用任意规则。如果在 sub-rule 内没匹配到，则会退回常规规则流程
+sub-rules:
+  udp-route:
+    # 局域网 / 本机 / 私有地址 UDP 直连
+    - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
+    - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
+    - IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
+    - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
+    - IP-CIDR,169.254.0.0/16,DIRECT,no-resolve
+
+    # IPv6 局域网 / 本地地址
+    - IP-CIDR6,::1/128,DIRECT,no-resolve
+    - IP-CIDR6,fc00::/7,DIRECT,no-resolve
+    - IP-CIDR6,fe80::/10,DIRECT,no-resolve
+
+    # 如果你有直连规则集，也可以加
+    - RULE-SET,🎯 全球直连,DIRECT
+    - RULE-SET,🏫 Tsinghua,DIRECT
+    - RULE-SET,🎵 NetEase Music,DIRECT
+    - RULE-SET,📺 哔哩哔哩,DIRECT
+    - RULE-SET,🌏 国内媒体,DIRECT
+    - RULE-SET,🍎 苹果更新,DIRECT
+    - RULE-SET,⚡️ SpeedTest,DIRECT
+    - RULE-SET,☁️ 115网盘,DIRECT
+
+    # 直连国内地址
+    - GEOSITE,cn,DIRECT
+    - GEOIP,CN,DIRECT,no-resolve
+
+    # 其他所有 UDP 走 UDP 专用节点
+    - MATCH,🧩 国外UDP
